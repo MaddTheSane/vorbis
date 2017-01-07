@@ -38,3 +38,5 @@ doc/Doxyfile
 doc/doxygen-build.stamp
 lib/test_sharedbook
 test/test
+.DS_Store
+xcuserdata/

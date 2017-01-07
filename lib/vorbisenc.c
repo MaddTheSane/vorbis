@@ -18,6 +18,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <math.h>
+#include <tgmath.h>
 
 #include "vorbis/codec.h"
 #include "vorbis/vorbisenc.h"

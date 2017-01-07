@@ -20,6 +20,7 @@
 #include <errno.h>
 #include <string.h>
 #include <math.h>
+#include <tgmath.h>
 
 #include "vorbis/codec.h"
 

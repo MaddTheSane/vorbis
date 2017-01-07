@@ -19,6 +19,7 @@
 #define _V_SCALES_H_
 
 #include <math.h>
+#include <tgmath.h>
 #include "os.h"
 
 #ifdef _MSC_VER

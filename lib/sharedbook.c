@@ -17,6 +17,7 @@
 
 #include <stdlib.h>
 #include <math.h>
+#include <tgmath.h>
 #include <string.h>
 #include <ogg/ogg.h>
 #include "os.h"

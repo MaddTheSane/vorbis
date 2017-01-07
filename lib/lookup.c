@@ -16,6 +16,7 @@
  ********************************************************************/
 
 #include <math.h>
+#include <tgmath.h>
 #include "lookup.h"
 #include "lookup_data.h"
 #include "os.h"

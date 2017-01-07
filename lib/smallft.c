@@ -31,6 +31,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <math.h>
+#include <tgmath.h>
 #include "smallft.h"
 #include "os.h"
 #include "misc.h"
